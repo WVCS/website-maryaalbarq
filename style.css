@@ -1,3 +1,39 @@
+<head> <link rel="stylesheet" href="style.css">
+  </head>
+
+
 body {
 
+nav {
+  list-style-type: none;
+  background-color: #E9ECF5;
+  position: fixed
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 27px;
+  font-family: "Georgia", serif;
+  
+  
+}
+
+li {
+  display: inline;
+  padding: 80px;
+  
+}
+li:hover {
+  color: #D8D4D5;
+}
+
+body {
+  background-color: #CCD6EB; 
+}
+
+a {
+  text-decoration:none;
+  color: black
+}
 }
