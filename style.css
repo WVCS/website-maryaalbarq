@@ -19,8 +19,8 @@ li {
   padding: 80px;
   
 }
-li:hover {
-  color: red;
+li: hover {
+  color: #FFD940;
 }
 
 body {
