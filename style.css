@@ -19,7 +19,7 @@ li {
   padding: 80px;
   
 }
-li: hover {
+a:hover {
   color: #FFD940;
 }
 
