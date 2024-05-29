@@ -23,11 +23,13 @@ li:hover {
   color: #414770;
 }
 
-body {
-  background-color: #CCD6EB; 
-}
 
 a {
-  text-decoration:none;
-  color: black
+  text-decoration: none;
+  color: red
+
+}
+
+a: hover {
+  color: #black
 }
